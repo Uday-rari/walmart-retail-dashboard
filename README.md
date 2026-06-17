@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Walmart_logo.svg" width="250"/>
-</p>
-
 # 🛒 Walmart Retail Intelligence Dashboard
 
 An end-to-end Business Intelligence project developed in Power BI to analyze Walmart retail sales performance, profitability, customer behavior, and transaction trends.
