@@ -6,7 +6,7 @@
 
 An end-to-end Business Intelligence project developed in Power BI to analyze Walmart retail sales performance, profitability, customer behavior, and transaction trends.
 
-This project transforms raw retail transaction data sourced from Kaggle into actionable business insights through data cleaning in Excel, transformation in Power Query, DAX calculations, and interactive dashboard design in Power BI.
+This project transforms raw retail transaction data sourced from Kaggle into actionable business insights through data cleaning in Excel, transformation in Power Query, DAX calculations, and interactive dashboard design in Power BI/ Illustrator.
 
 ---
 
