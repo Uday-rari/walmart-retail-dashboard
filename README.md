@@ -161,8 +161,8 @@ Aspiring Data Analyst | Power BI | SQL | Python | Data Visualization
 
 🔗 **[LinkedIn Profile](https://www.linkedin.com/in/udayrari/)**
 
-🔗 **[GitHub Profile](https://github.com/YOUR_GITHUB_USERNAME)**
+🔗 **[GitHub Profile](https://github.com/uday-rari)**
 
 ---
 
-⭐ If you found this project interesting, feel free to explore the repository and share your feedback.
+⭐ If you enjoyed exploring this dashboard, feel free to leave a star on the repository and share your thoughts. Your feedback is always welcome.
